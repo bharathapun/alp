@@ -1,9 +1,9 @@
 #include<stdio.h>
 {
-char a1;
+char b;
 printf("enter the alphabets");
-scanf("%d",&a1);
-if(a1=='a'||a1=='b'||a1=='c'||a1=='z')
+scanf("%d",&b);
+if(b=='a'||b=='b'||b=='c'||b=='z')
 {
 printf("alphsbets");
 }
